@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+}
+
+.joke{
+    width: 100vh;
+    height: 50vh;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20vh;
+    border-radius: 10px;
+    background-color: rgb(122, 142, 253);
+    box-shadow: 0px 4px 28px -5px;
+}
+
+.main{
+    margin-top: 10vh;
+}
+.main button{
+    width: 30vh;
+    height: 5vh;
+    font-size: 3vh;
+    background-color: rgb(252, 165, 252);
+    border:1px solid black;
+    border-radius: 10px;
+}
+.main button:hover{
+    background-color: rgb(252, 184, 136);
+    cursor: pointer;
+}
